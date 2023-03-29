@@ -1,0 +1,24 @@
+.navbar {
+	padding: 5px 10px;
+	height: 80px;
+	border-bottom: 1px solid #000;
+}
+.navbar-left {
+	float: left;
+	padding: 4px 8px;
+}
+.navbar-right {
+	float: right;
+	padding: 4px 8px;
+}
+
+.navbar-header {
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.navbar-right p {
+	float: left;
+	font-size: 25px;
+	padding-right: 20px;
+}

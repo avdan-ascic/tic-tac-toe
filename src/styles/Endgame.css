@@ -1,0 +1,38 @@
+.endgame {
+  margin: 25px auto;
+  width: 70%;
+  border: 1px solid #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.endgame-header {
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  margin-top: 50px;
+}
+
+.endgame-btn {
+  font-size: 20px;
+  letter-spacing: 3px;
+  color: #fff;
+  background-color: #03aef7;
+  border: 1px solid #03aef7;
+  border-radius: 4px;
+  padding: 8px 30px;
+  margin: 20px;
+}
+.endgame-btn:hover {
+  color: #000;
+  background-color: #0263cb;
+  border: 1px solid #0263cb;
+}
+
+.history {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}

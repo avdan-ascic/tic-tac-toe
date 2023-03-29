@@ -1,0 +1,39 @@
+.login {
+	margin: 80px auto;
+	width: 50%;
+	height: auto;
+}
+
+.form {
+	border: 1px solid #000;
+	width: 100%;
+	height: 400px;
+}
+
+.form label {
+	font-size: 20px;
+	display: block;
+	margin-top: 40px;
+}
+
+.form input {
+	display: block;
+	width: 80%;
+	height: 30px;
+	margin: 10px auto;
+}
+.form button {
+	font-size: 20px;
+	letter-spacing: 3px;
+	color: #fff;
+	background-color: #03aef7;
+	border: 1px solid #03aef7;
+	border-radius: 4px;
+	padding: 8px 30px;
+	margin-top: 40px;
+}
+.form button:hover {
+	color: #000;
+	background-color: #0263cb;
+	border: 1px solid #0263cb;
+}
